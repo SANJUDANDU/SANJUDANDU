@@ -10,14 +10,34 @@
 
 I'm a data analyst with a passion for turning raw data into meaningful business insights. I enjoy asking the right questions, building clean data models, and creating dashboards that people can actually use to make decisions.
 
+What makes me a little different? I'm also a **trained Pastry & Confectionery Chef** 🎂 with a diploma in Bakery & Confectionery — which means I bring the same precision, patience, and creativity I use in the kitchen to every dataset I work with.
+
+When I'm not querying databases, you'll find me practising **Taekwondo**, doing **yoga**, creating **mythology content**, or competing at **hackathons**.
+
 ---
 
 ## 🛠️ Tech Stack
 
+**Languages & Querying**  
 ![SQL](https://img.shields.io/badge/SQL-SQL%20Server-blue?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**BI & Visualisation**  
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**Data & Tools**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-Data%20Analysis-9B59B6?style=flat-square)
+
+**Version Control & Platforms**  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
@@ -56,6 +76,7 @@ I'm a data analyst with a passion for turning raw data into meaningful business 
 ## 🏆 Highlights
 
 - 🥋 Taekwondo practitioner & yoga enthusiast
+- 🎂 Diploma in Bakery & Confectionery — trained Pastry & Confectionery Chef
 - 💻 Hackathon participant — ITS-A-Hack 2.0
 - 📖 Mythology content creator
 - 💪 Fitness advocate
