@@ -10,8 +10,6 @@
 
 I'm a data analyst with a passion for turning raw data into meaningful business insights. I enjoy asking the right questions, building clean data models, and creating dashboards that people can actually use to make decisions.
 
-When I'm not querying databases, you'll find me practising **Taekwondo**, doing **yoga**, creating **mythology content**, or competing at **hackathons**.
-
 ---
 
 ## 🛠️ Tech Stack
