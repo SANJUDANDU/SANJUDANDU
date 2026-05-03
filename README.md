@@ -12,8 +12,6 @@ I'm a data analyst with a passion for turning raw data into meaningful business 
 
 What makes me a little different? I'm also a **trained Pastry & Confectionery Chef** 🎂 with a diploma in Bakery & Confectionery — which means I bring the same precision, patience, and creativity I use in the kitchen to every dataset I work with.
 
-When I'm not querying databases, you'll find me practising **Taekwondo**, doing **yoga**, creating **mythology content**, or competing at **hackathons**.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -64,24 +62,6 @@ When I'm not querying databases, you'll find me practising **Taekwondo**, doing 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SANJUDANDU&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANJUDANDU&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
----
-
-## 🏆 Highlights
-
-- 🥋 Taekwondo practitioner & yoga enthusiast
-- 🎂 Diploma in Bakery & Confectionery — trained Pastry & Confectionery Chef
-- 💻 Hackathon participant — ITS-A-Hack 2.0
-- 📖 Mythology content creator
-- 💪 Fitness advocate
-
----
 
 ## 📬 Connect with Me
 
